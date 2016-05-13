@@ -1,0 +1,4 @@
+WW:
+voor server: welkom10
+voor wordpress: welkom10
+Pass phrase server.key : ShR639OAs
